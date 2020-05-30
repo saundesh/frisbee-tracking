@@ -1,6 +1,6 @@
 # Detection and Tracking in Ultimate Frisbee
 
-For this project, I implemented detection and tracking in the sport of ultimate frisbee. Code for v1 can be found in the 'project-v1.ipynb' file. The output video of my result can be found as 'final-result.mpeg' or at https://youtu.be/-Bu1vcGuILg
+For this project, I implemented detection and tracking in the sport of ultimate frisbee using OpenCV. Code for v1 can be found in the 'project-v1.ipynb' file. The output video of my result can be found as 'final-result.mpeg' or at https://youtu.be/-Bu1vcGuILg
 
 To run the code:
 1. Move clip-5.mp4 into a new directory ./data/input/
