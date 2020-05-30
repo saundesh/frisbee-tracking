@@ -1,5 +1,4 @@
-# Dection and Tracking in Ultimate Frisbee
-#### Shirley Huang
+# Detection and Tracking in Ultimate Frisbee
 
 For this project, I implemented detection and tracking in the sport of ultimate frisbee. Code for v1 can be found in the 'project-v1.ipynb' file. The output video of my result can be found as 'final-result.mpeg' or at https://youtu.be/-Bu1vcGuILg
 
@@ -20,4 +19,4 @@ To run the code:
 6. Code will use 'clip-5.txt' as homographies so it won't take too long to run
 7. Once everything runs, replica of output video can be found in main directory
 
-Currently, I am working on v2 which will be more robust and have new features.
+Currently, I am working on v2 which will be more robust and have new features!
